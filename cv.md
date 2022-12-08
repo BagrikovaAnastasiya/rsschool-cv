@@ -1,6 +1,7 @@
 # rsschool-cv  
 # Anastasiia Bagrikova  
-![photo](photo.jpg)
+<img src="photo.jpg" width="150">  
+
 ## Contacts:  
 * Discord: Anastasiia#2225  
 * E-mail: bagrikovaa@gmail.com  
