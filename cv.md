@@ -1,6 +1,6 @@
 # rsschool-cv  
 # Anastasiia Bagrikova  
-<img src="photo.jpg" width="150">  
+<img src="assets/img/photo.jpg" width="150">  
 
 ## Contacts:  
 * Discord: Anastasiia#2225  
@@ -19,7 +19,7 @@ function multiply(a, b){
 ## Work experience:  
 No  
 
-## Education and courses:  
+## Courses:  
 1. HTML, CSS, JavaScript: вводный модуль https://practicum.yandex.ru  
 2. Веб-разработка для начинающих: HTML и CSS https://stepik.org  
 
