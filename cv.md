@@ -1,0 +1,27 @@
+# rsschool-cv  
+# Anastasiia Bagrikova  
+<img src="assets/img/photo.jpg" width="150">  
+
+## Contacts:  
+* Discord: Anastasiia#2225  
+* E-mail: bagrikovaa@gmail.com  
+* Tel: +5491137807877  
+
+## About myself:  
+I want to learn Front-End Development in RSSchool!  
+
+## Code example:  
+``` JS  
+function multiply(a, b){
+  return a * b
+}
+```
+## Work experience:  
+No  
+
+## Courses:  
+1. HTML, CSS, JavaScript: вводный модуль https://practicum.yandex.ru  
+2. Веб-разработка для начинающих: HTML и CSS https://stepik.org  
+
+## Language:  
+English level - A1 
